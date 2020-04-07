@@ -5,20 +5,27 @@ body {
     margin-top: 0px;
     font-size: 200%;
     font-variant:small-caps;
+    margin-bottom: 0px;
     }
 
 div {
     background-color:rgb(100, 100, 100);
     padding:5px;
     padding-bottom:15px;
-    margin:10px;
-    border-radius:2px
+    margin:1%;
+    margin-bottom: 3%;
+    border-radius:10px
     }
 
 nav {
     padding-bottom: 10px;
     }
     
+footer {
+    margin-top: 5%;
+    font-size: 80%;
+}
+
 a {
     color:rgb(200, 200, 200);
     font-weight:900;
@@ -49,11 +56,6 @@ img {
         margin: 1px;
     }
 }
-
-    
-span {
-    color:rgb(145, 0, 145)
-    }
 
 code {
     font-family:consolas, georgia, 'times new roman', serif;

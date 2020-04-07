@@ -81,10 +81,6 @@ h1 {
 	animation: spacemove 1s infinite;
 	}
 	
-@keyframes spacemove {
-	50% {letter-spacing: 1.5px;}
-}
-
 h2 {
 	font-family:sans-serif;
 	}

@@ -96,6 +96,13 @@ h4 {
 
 @media only screen and (max-width: 1920px) {
     iframe {
+        width: 854;
+        height: 480;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    iframe {
         width: auto;
         height: auto;
     }
